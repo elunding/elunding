@@ -1,12 +1,16 @@
 ### Hi there, I'm Esteban Lundin, Software Engineer from Santiago, Chile.
 
-## GitHub Stats
+## Key Technologies
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elunding&show_icons=true&count_private=true&hide=issues)
+![Python](https://img.shields.io/badge/Python-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![Java](https://img.shields.io/badge/Java-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+
 
 ## Contact Me
 
-📧 Feel free to reach out to me at [your@email.com](mailto:your@email.com).
+📧 Feel free to reach out to me at [esteban.lundin@email.com](mailto:esteban.lundin@email.com).
 
 <!--
 **elunding/elunding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
