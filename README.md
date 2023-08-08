@@ -3,7 +3,7 @@
 ## About me
 
 - Currently working as a BackEnd Engineer 🤖
-- Love to learn new technologies ⚡️.
+- Love to learn new technologies ⚡️
 
 ## Key Technologies
 
