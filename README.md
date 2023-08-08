@@ -1,4 +1,4 @@
-### Hi there, I'm Esteban Lundin, Software Engineer from Santiago, Chile.
+### Hi there, I'm Esteban Lundin, Software Engineer 👨‍💻 from Santiago, Chile.
 
 ## Key Technologies
 
