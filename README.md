@@ -1,5 +1,10 @@
 ### Hi there, I'm Esteban Lundin, Software Engineer 👨‍💻 from Santiago, Chile.
 
+## About me
+
+- Currently working as a BackEnd Engineer 🤖
+- Love to learn new technologies ⚡️.
+
 ## Key Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python)
